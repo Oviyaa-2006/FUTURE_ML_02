@@ -47,7 +47,6 @@ The dataset contains IT support ticket descriptions with corresponding **Topic**
 FUTURE_ML_02/
 
 ├── data/
-├── models/
 ├── plots/
 ├── notebook/
 ├── README.md
